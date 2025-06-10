@@ -1,0 +1,8 @@
+{
+    "env" : {
+        "DB_USER" : "amit",
+        "DB_PASSWORD" : "amit",
+        "DB_NAME" : "shareplaces",
+        "JWT_KEY" : "supersecret_dont_share"
+    }
+}
